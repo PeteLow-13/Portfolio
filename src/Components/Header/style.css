@@ -1,0 +1,17 @@
+.header-container {
+    height:100vh;
+    width: auto;
+    text-align: center;
+    background-color: rgb(2, 139, 139);
+}
+
+.profile-picture-div {
+    height: 60vh;
+    width: auto;
+}
+
+.profile-picture-div img {
+    border-radius: 50%;
+    height: 100%;
+    width: auto;
+}
