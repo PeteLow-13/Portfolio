@@ -1,11 +1,13 @@
 import React from 'react';
 import './style.css';
+import img from './profilepic.jpeg';
 
 function Header() {
     return (
         <div className='header-container'>
             <h1>Pete Low</h1>
-            <p>Certified Full-stack Developer . </p>
+            <img className='profilePic' src={img} alt='Pete Low' />
+            <p>Certified Full-stack Developer.</p>
         </div>
     )
 }
