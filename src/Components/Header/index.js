@@ -1,12 +1,11 @@
 import React from 'react';
 import './style.css';
 
-import React from 'react'
-
 function Header() {
     return (
-        <div>
-            
+        <div className='header-container'>
+            <h1>Pete Low</h1>
+            <p>Certified Full-stack Developer . </p>
         </div>
     )
 }
