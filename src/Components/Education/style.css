@@ -4,3 +4,12 @@
     text-align: center;
     /* background-color: rgb(2, 139, 139); */
 }
+
+.seal-div {
+    height: 50px;
+    width: auto;
+}
+
+.seal-div img {
+    height: 100%;
+}
