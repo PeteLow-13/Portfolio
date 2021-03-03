@@ -1,7 +1,8 @@
 .education-container{
-    
+    height:50vh;
     width: auto;
     text-align: center;
+    padding: 10px;
     /* background-color: rgb(2, 139, 139); */
 }
 

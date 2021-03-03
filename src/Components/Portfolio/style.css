@@ -1,6 +1,7 @@
 .portfolio-container {
-    
+    height: 100vh;
     width: auto;
     text-align: center;
     background-color: rgb(2, 139, 139);
+    padding: 10px;
 }
