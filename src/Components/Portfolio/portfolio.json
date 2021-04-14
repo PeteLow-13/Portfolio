@@ -1,0 +1,13 @@
+{
+    "projects":[
+        {
+            "id": "1" ,
+            "title": "Sk8Tool",
+            "description": "Sk8Tool is a project that allows Skateboarders to Find Skateparks, Skateshops and also view and add Skate Spots to our database",
+            "languages":"MySQL, ExpressJS, HandlebarJS, NodeJS, JavaScript, CSS, and google maps API" ,
+            "image": "./images/sk8tool.png",
+            "repo": "https://github.com/PeteLow-13/Project-02-Sk8Tool" ,
+            "deployed": "https://sk8fndr.herokuapp.com/"
+        }
+    ]
+}
