@@ -6,7 +6,6 @@ My new streamlined portfolio using react
 ## Table of Contents
 - [Deployed](#deployed)
 - [Languages](#languages)
-- [Tests](#tests)
 - [Questions](#questions)
 
 My new streamlined portfolio using react. This portfolio can help users see my work, learn about me and my skills and get in touch with me.
