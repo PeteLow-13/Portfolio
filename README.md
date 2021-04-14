@@ -4,29 +4,20 @@
 
 My new streamlined portfolio using react
 ## Table of Contents
-- [Usage](#usage)
-- [Installation](#installation)
 - [Deployed](#deployed)
 - [Languages](#languages)
 - [Tests](#tests)
 - [Questions](#questions)
 
 My new streamlined portfolio using react. This portfolio can help users see my work, learn about me and my skills and get in touch with me.
-## Usage
 
-Usage
-## Installation
-
-Installation
 ## deployed
 
-deployed 
+-https://petelow-13.github.io/Portfolio/
 ## Languages
 
 JavaScript, React, HTML, CSS
-## Tests
 
-Tests
 ## Repository
 - https://github.com/PeteLow-13/Portfolio
 ## Questions
