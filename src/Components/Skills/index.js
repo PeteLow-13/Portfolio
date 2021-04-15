@@ -45,7 +45,7 @@ function Skills() {
                     <img src="https://img.icons8.com/color/96/000000/npm.png" alt='NPM logo'/>
                     <span className='hovertext'>NPMjs</span>
                 </a>
-                <p>and learning more daily</p>
+                <p>...and learning more daily!</p>
         </div>
     )
 }

@@ -1,5 +1,6 @@
 .skills-container {
     /* background-color:rgb(2, 139, 139) ; */
+    background-color: rgba(209, 218, 32, 0.536);
     height:50vh;
     width: auto;
     text-align: center;
@@ -9,7 +10,7 @@
 .hovertag .hovertext {
     visibility: hidden;
     width: 100px;
-    background-color: whitesmoke;
+    background-color: rgba(14, 14, 6, 0.358);
     color:rgb(2, 139, 139);
     text-align: center;
     padding: 5px 0;
